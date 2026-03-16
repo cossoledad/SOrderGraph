@@ -90,3 +90,8 @@ python3 SOrder.py --root /path/to/lib --root /another/lib/dir
 python3 -m py_compile SOrder.py dependency_analyzer.py html_report.py
 python3 SOrder.py --root /lib/x86_64-linux-gnu --no-recursive --output so_dependencies_cytoscape.html --focus libc.so.6
 ```
+
+
+## 示例
+
+![example libLLVM-20.so](./example/libLLVM-20.so.svg)
