@@ -1,4 +1,4 @@
-# LinuxDynamicLibDepsAnalysis
+# SOrderGraph
 
 用于扫描 Linux 本地动态库目录，解析 `.so` 之间的依赖关系，并生成一个可交互的 HTML 拓扑图。
 
